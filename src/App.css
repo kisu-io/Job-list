@@ -1,0 +1,8 @@
+.App {
+  box-sizing: border-box;
+}
+
+.card {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
